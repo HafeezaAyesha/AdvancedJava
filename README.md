@@ -81,7 +81,7 @@ https://github.com/HafeezaAyesha/AdvancedJava/blob/main/2-StringOperations/Strin
 appending the string ‘AIET’ for 10000 times both in the StringBuffer and StringBuilder. Justify
 your answer which one is better.
 Output for the performance of StringBuilder and StringClass :-                                                              
-https://github.com/HafeezaAyesha/AdvancedJava/blob/main/2-StringOperations/PerformanceTest.java
+https://github.com/HafeezaAyesha/AdvancedJava/blob/main/2-StringOperations/PerformanceTest.png
 
 
 ___
