@@ -234,13 +234,15 @@ https://github.com/HafeezaAyesha/AdvancedJava/blob/main/8-JDBCExample/8B/8B.png
 into the table Emp of the database Employee by getting the fields through keyboard and
 Generate the report as follows for the TABLE Emp (Emp_NO , Emp_Name, Basicsalary ) using
 HTML and JSP to get the fields and display the results respectively
-https://github.com/HafeezaAyesha/AdvancedJava/blob/main/8-JDBCExample/8C/8C2.png
+    
+https://github.com/HafeezaAyesha/AdvancedJava/blob/main/8-JDBCExample/8C/8C2.png                                               
 https://github.com/HafeezaAyesha/AdvancedJava/blob/main/8-JDBCExample/8C/8C.png
 
 8d. Develop a JDBC project using JDBC to update the fields empno, empname and basicsalary into
 the table Emp of the database Employee using HTML and JSP to get the fields and display the
 results respectively
-https://github.com/HafeezaAyesha/AdvancedJava/blob/main/8-JDBCExample/8D/8D1.png                                          
+
+https://github.com/HafeezaAyesha/AdvancedJava/blob/main/8-JDBCExample/8D/8D1.png                                                                              
 https://github.com/HafeezaAyesha/AdvancedJava/blob/main/8-JDBCExample/8D/8D.png
 
 
