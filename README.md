@@ -261,8 +261,9 @@ https://github.com/HafeezaAyesha/AdvancedJava/blob/main/9-JDBCExample/9A/9A.png
 
 9b. Read all the existing records from the table coffee which is from the database test and query
 coffee name starting with ‘D’ in the table using HTML and JSP to get the field and display the
-results respectively
-https://github.com/HafeezaAyesha/AdvancedJava/blob/main/9-JDBCExample/9B/9b1.png                             
+results respectively                           
+
+https://github.com/HafeezaAyesha/AdvancedJava/blob/main/9-JDBCExample/9B/9b1.png                                                                        
 https://github.com/HafeezaAyesha/AdvancedJava/blob/main/9-JDBCExample/9B/9b.png
 
 
@@ -270,8 +271,9 @@ https://github.com/HafeezaAyesha/AdvancedJava/blob/main/9-JDBCExample/9B/9b.png
 into the table Emp of the database Employee by getting the fields through keyboard and Generate
 the report as follows for the table Emp (Emp_NO , Emp_Name, Basicsalary ) using HTML and JSP
 to get the field and display the results respectively
-https://github.com/HafeezaAyesha/AdvancedJava/blob/main/9-JDBCExample/9C/9C1.png                             
-https://github.com/HafeezaAyesha/AdvancedJava/blob/main/9-JDBCExample/9C/9C1.png
+
+https://github.com/HafeezaAyesha/AdvancedJava/blob/main/9-JDBCExample/9C/9C1.png                                                                           
+https://github.com/HafeezaAyesha/AdvancedJava/blob/main/9-JDBCExample/9C/9C1.png 
 
 
 9d. Develop a JDBC project using MySQL to delete the records in the table Emp of the database
